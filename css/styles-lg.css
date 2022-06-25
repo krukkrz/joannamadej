@@ -152,6 +152,54 @@ section h1 {
     background-image: url(../img/works/hover/paintings_hover.png);
 }
 
+.ux1 {
+    background-image: url(../img/uiux/tiles/dribble.png);
+}
+
+.ux1:hover {
+    background-image: url(../img/works/hover/UI_UX_hover.png);
+}
+
+.ux2 {
+    background-image: url(../img/uiux/tiles/tasteme_redesign.png);
+}
+
+.ux2:hover {
+    background-image: url(../img/works/hover/UI_UX_hover.png);
+}
+
+.ux3 {
+    background-image: url(../img/uiux/tiles/psinder.png);
+}
+
+.ux3:hover {
+    background-image: url(../img/works/hover/UI_UX_hover.png);
+}
+
+.ux4 {
+    background-image: url(../img/uiux/tiles/maynooth.png);
+}
+
+.ux4:hover {
+    background-image: url(../img/works/hover/UI_UX_hover.png);
+}
+
+.ux5 {
+    background-image: url(../img/uiux/tiles/welcome.png);
+}
+
+.ux5:hover {
+    background-image: url(../img/works/hover/UI_UX_hover.png);
+}
+
+.ux6 {
+    background-image: url(../img/uiux/tiles/tasteme_app.png);
+}
+
+.ux6:hover {
+    background-image: url(../img/works/hover/UI_UX_hover.png);
+}
+
 .menu-item {
     text-transform: uppercase;
     color: var(--main-color);
