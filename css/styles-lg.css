@@ -101,7 +101,7 @@ section h1 {
 }
 
 .w1:hover {
-    background-image: url(../img/works/hover/UI_UX_hover.png);
+    background-image: url(../img/works/hover/UX_UI_hover.png);
 }
 
 .w2 {
@@ -157,7 +157,7 @@ section h1 {
 }
 
 .ux1:hover {
-    background-image: url(../img/works/hover/UI_UX_hover.png);
+    background-image: url(../img/uiux/tiles/hover/dribble_hover.png);
 }
 
 .ux2 {
@@ -165,7 +165,7 @@ section h1 {
 }
 
 .ux2:hover {
-    background-image: url(../img/works/hover/UI_UX_hover.png);
+    background-image: url(../img/uiux/tiles/hover/tasteme_redesign_hover.png);
 }
 
 .ux3 {
@@ -173,7 +173,7 @@ section h1 {
 }
 
 .ux3:hover {
-    background-image: url(../img/works/hover/UI_UX_hover.png);
+    background-image: url(../img/uiux/tiles/hover/psinder_hover.png);
 }
 
 .ux4 {
@@ -181,7 +181,7 @@ section h1 {
 }
 
 .ux4:hover {
-    background-image: url(../img/works/hover/UI_UX_hover.png);
+    background-image: url(../img/uiux/tiles/hover/maynooth_hover.png);
 }
 
 .ux5 {
@@ -189,7 +189,7 @@ section h1 {
 }
 
 .ux5:hover {
-    background-image: url(../img/works/hover/UI_UX_hover.png);
+    background-image: url(../img/uiux/tiles/hover/welcome_hover.png);
 }
 
 .ux6 {
@@ -197,7 +197,7 @@ section h1 {
 }
 
 .ux6:hover {
-    background-image: url(../img/works/hover/UI_UX_hover.png);
+    background-image: url(../img/uiux/tiles/hover/tasteme_app_hover.png);
 }
 
 .menu-item {
@@ -293,6 +293,27 @@ section h1 {
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
+}
+
+.dribbble img {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.tasteme_rdsgn {
+    margin-top: 100px;
+}
+
+.tasteme_rdsgn img {
+    height: 80vh;
+    width: auto;
+    margin-bottom: 100px;
+}
+
+.psinder img {
+    height: 80vh;
+    width: auto;
+    margin-bottom: 100px;
 }
 
 a:link {
