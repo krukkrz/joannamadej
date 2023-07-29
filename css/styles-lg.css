@@ -200,14 +200,6 @@ section h1 {
     background-image: url(../img/uiux/tiles/hover/welcome_hover.png);
 }
 
-.ux6 {
-    background-image: url(../img/uiux/tiles/tasteme_app.png);
-}
-
-.ux6:hover {
-    background-image: url(../img/uiux/tiles/hover/tasteme_app_hover.png);
-}
-
 .menu-item {
     text-transform: uppercase;
     color: var(--main-color);
