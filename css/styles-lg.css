@@ -1,12 +1,18 @@
 body {
     background-image: url(../img/stwor1.png);
-    background-repeat: no-repeat;
-    background-position: top;
+    background-repeat:   no-repeat;
     background-color: #0d0d63 !important;
+    background-position: top;
     color: white !important;
     font-family: 'Josefin Sans', sans-serif !important;
     font-weight: 300 !important;
     font-size: 27.1px !important;
+}
+
+@media (min-width: 1728px) {
+    body {
+        background-size:     contain;
+    }
 }
 
 :root {
