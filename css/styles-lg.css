@@ -96,6 +96,8 @@ section h1 {
     background-repeat: no-repeat;
 }
 
+/* my works tiles */
+
 .w0 {
     background-image: url(../img/works/other.png);
 }
@@ -160,6 +162,10 @@ section h1 {
     background-image: url(../img/works/hover/paintings_hover.png);
 }
 
+/* ----------- */
+
+/* UI/UX tiles */
+
 .ux1 {
     background-image: url(../img/uiux/tiles/dribble.png);
 }
@@ -199,6 +205,48 @@ section h1 {
 .ux5:hover {
     background-image: url(../img/uiux/tiles/hover/welcome_hover.png);
 }
+
+.ux6 {
+    background-image: url(../img/uiux/tiles/guild_app.png);
+}
+
+.ux6:hover {
+    background-image: url(../img/uiux/tiles/hover/guild_app_hover.png);
+}
+
+.ux7 {
+    background-image: url(../img/uiux/tiles/nda.png);
+}
+
+.ux7:hover {
+    background-image: url(../img/uiux/tiles/hover/nda_hover.png);
+}
+
+.ux8 {
+    background-image: url(../img/uiux/tiles/guild_website.png);
+}
+
+.ux8:hover {
+    background-image: url(../img/uiux/tiles/hover/guild_website_hover.png);
+}
+
+.ux9 {
+    background-image: url(../img/uiux/tiles/omani.png);
+}
+
+.ux9:hover {
+    background-image: url(../img/uiux/tiles/hover/omani_hover.png);
+}
+
+.ux10 {
+    background-image: url(../img/uiux/tiles/omantel.png);
+}
+
+.ux10:hover {
+    background-image: url(../img/uiux/tiles/hover/omantel_hover.png);
+}
+
+/* ---------- */
 
 .menu-item {
     text-transform: uppercase;
