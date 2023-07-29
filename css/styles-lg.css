@@ -96,6 +96,14 @@ section h1 {
     background-repeat: no-repeat;
 }
 
+.w0 {
+    background-image: url(../img/works/other.png);
+}
+
+.w0:hover {
+    background-image: url(../img/works/hover/other_hover.png);
+}
+
 .w1 {
     background-image: url(../img/works/ux.png);
 }
