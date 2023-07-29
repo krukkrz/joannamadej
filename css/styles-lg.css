@@ -369,6 +369,11 @@ a:link {
     text-decoration: none;
 }
 
+.uiux a:link {
+    color: var(--main-color);
+    text-decoration: underline;
+}
+
 a:visited {
     color: var(--main-color);
     text-decoration: none;
