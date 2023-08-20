@@ -252,6 +252,14 @@ section h1 {
     background-image: url(../img/uiux/tiles/hover/omantel_hover.png);
 }
 
+.ux11 {
+    background-image: url(../img/uiux/tiles/deskly.png);
+}
+
+.ux11:hover {
+    background-image: url(../img/uiux/tiles/hover/deskly_hover.png);
+}
+
 /* ---------- */
 
 .menu-item {
