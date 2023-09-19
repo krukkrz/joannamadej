@@ -351,6 +351,24 @@ section h1 {
     float: right;
 }
 
+.aboutme {
+    text-align: justify;
+}
+
+.testimonials {
+    margin-bottom: 80px;
+}
+
+.testimonials h3 {
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.testimonials p {
+    text-align: justify;
+}
+
 #contact {
     height: 200px;
     text-align: center;
