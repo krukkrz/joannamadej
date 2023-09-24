@@ -315,7 +315,10 @@ section h1 {
 .uiux ul {
     list-style-image: url('../img/about_me/gwiazdeczka.png');
 }
-
+.uiux li {
+    margin-top: 10px;
+    margin-bottom: 10px;;
+}
 .tasteme img {
     margin: 15px;
 }
