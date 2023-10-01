@@ -64,6 +64,19 @@ body {
     margin-bottom: 30px;
 }
 
+.healthy_me video {
+    width: 100%;
+    height: auto;
+    max-width: 840px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.healthy_me object {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
 section {
     width: 100%;
     margin-bottom: 153px;
@@ -277,6 +290,14 @@ section h1 {
 
 .ux11:hover {
     background-image: url(../img/uiux/tiles/hover/deskly_hover.png);
+}
+
+.ux12 {
+    background-image: url(../img/uiux/tiles/healthy_me.png);
+}
+
+.ux12:hover {
+    background-image: url(../img/uiux/tiles/hover/healthy_me_hover.png);
 }
 
 /* ---------- */
