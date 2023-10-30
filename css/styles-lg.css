@@ -302,6 +302,10 @@ section h1 {
 
 /* ---------- */
 
+.project-data {
+    margin-bottom: 50px;
+}
+
 .menu-item {
     text-transform: uppercase;
     color: var(--main-color);
